@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee" version="4.0"><display-name>College Student Portal</display-name><context-param><param-name>uploadDirectory</param-name><param-value>C:/xampp/htdocs/student-portal-php/uploads</param-value></context-param><session-config><session-timeout>15</session-timeout></session-config><welcome-file-list><welcome-file>login</welcome-file></welcome-file-list></web-app>
