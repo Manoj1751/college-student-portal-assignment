@@ -1,0 +1,15 @@
+# Local secrets/configuration
+.env
+*.local.php
+php-crud/uploads/*
+!php-crud/uploads/.gitkeep
+!php-crud/uploads/.htaccess
+servlet-portal/target/
+*.class
+.vscode/
+.idea/
+.project
+.classpath
+.settings/
+.DS_Store
+Thumbs.db
